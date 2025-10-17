@@ -1,6 +1,5 @@
-=======================================================
 # Network Based Anomaly Detection System Using ML
-=======================================================
+
 
 ## System Architecture 
 
